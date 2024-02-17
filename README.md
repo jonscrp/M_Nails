@@ -3,7 +3,7 @@
 
 [**White Paper**](WhitePaper)<br>
 [**Grey Papee**](GrayPaper)<br>
-[**Wire Frames**]()<br>
+[**Wire Frames**](WireFrames)<br>
 
 ## Website
 
