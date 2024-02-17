@@ -1,7 +1,7 @@
 # M_Nails
 
 
-[**White Paper**]()<br>
+[**White Paper**](WhitePaper)<br>
 [**Grey Papee**]()<br>
 [**Wire Frames**]()<br>
 
